@@ -241,8 +241,7 @@ healthcare-service-api/
 │
 ├── .env                     # Environment variables (MongoDB URI, PORT)
 ├── package.json             # Project metadata and scripts
-├── README.md                # Project documentation
-└── seed.js                  # Seed script to populate initial data (optional)
+├── README.md                # Project 
 ```
 
 ## License
