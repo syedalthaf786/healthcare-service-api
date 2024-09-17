@@ -38,7 +38,7 @@ This project is a simple RESTful API for managing healthcare services, built usi
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone 
 cd healthcare-service-api
 ```
 
